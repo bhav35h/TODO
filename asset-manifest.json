@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bhav35h/TODO/static/css/main.22b2bfe7.css",
+    "main.js": "/bhav35h/TODO/static/js/main.6aba30d6.js",
+    "index.html": "/bhav35h/TODO/index.html",
+    "main.22b2bfe7.css.map": "/bhav35h/TODO/static/css/main.22b2bfe7.css.map",
+    "main.6aba30d6.js.map": "/bhav35h/TODO/static/js/main.6aba30d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b2bfe7.css",
+    "static/js/main.6aba30d6.js"
+  ]
+}
